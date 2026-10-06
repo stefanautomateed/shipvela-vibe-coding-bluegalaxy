@@ -441,6 +441,8 @@ From the official MCP repository maintained by Anthropic.
 - [Sentry MCP Server](https://github.com/getsentry/sentry-mcp) - Access error reports, stacktraces, and issue data from Sentry.
 - [Kubernetes MCP Server](https://github.com/strowk/mcp-k8s-go) - Manage Kubernetes clusters, pods, and deployments.
 - [AWS MCP Server](https://github.com/rishikavikondala/mcp-server-aws) - Interact with AWS services from your AI agent.
+- [Shipvela MCP](https://shipvela.com/integrations/assistants) - Publish websites with owner confirmation and inspect projects, deployment status, logs and usage through a hosted OAuth MCP connector; free Hobby tier available.
+
 ### Database
 
 - [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) - Manage Supabase projects: database, auth, storage, edge functions.
